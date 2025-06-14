@@ -31,7 +31,6 @@ body {
   padding: 20px;
   cursor: pointer;
   transition: transform 0.3s ease, background 0.3s ease;
-  background-image: url('https://i.imgur.com/GDtVx6V.png'); /* flame overlay */
   background-size: cover;
   background-blend-mode: overlay;
   margin-bottom: 30px;
